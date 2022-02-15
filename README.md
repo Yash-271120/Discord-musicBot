@@ -5,7 +5,7 @@
 ### To Run the bot Locally
 1. Clone the repo
 2. Create a config.json file `{
-    "prefix": <Prefix you want your bat to listen>,
+    "prefix": <Prefix you want your bot to listen>,
     "token": <token from discord developer portal>
     }`
 3. Run `npm install`
